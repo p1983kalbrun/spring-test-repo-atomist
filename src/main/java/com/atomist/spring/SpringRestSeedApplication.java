@@ -2,7 +2,7 @@ package com.atomist.spring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-//new comment
+//new comment1
 @SpringBootApplication
 public class SpringRestSeedApplication {
 
